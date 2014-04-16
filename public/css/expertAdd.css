@@ -1,0 +1,8 @@
+#apPic {
+	position:absolute;
+	width:160px;
+	height:180px;
+	z-index:4;
+	left: 900px;
+	top: 710px;
+}

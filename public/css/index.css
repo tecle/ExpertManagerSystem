@@ -1,0 +1,59 @@
+body{
+	background: url(/CIFramework/public/image/lgbg.png);
+}
+#layout{
+	text-align:center; 
+	margin-left:auto;
+	margin-right:auto;
+	margin-top: 180px;
+	background: url(/CIFramework/public/image/1_1.png);
+	width: 398px;
+	height: 290px;
+	font-size: 20px;
+	font-family: Arial;	
+	
+}
+
+
+
+#title{
+	margin-left: 3px;
+	margin-top: 20px;
+	text-align: left;
+}
+
+#img{
+	text-align: right;
+}
+
+form{
+	margin: 0px;
+	padding: 15px;
+}
+
+label{
+	width: 100px;
+	float: left;
+	text-align: right;
+	padding: 10px 0px 10px;
+	font-family:"方正准圆简体";
+	font-size: 14px;
+}
+
+select{
+	padding: 10px;
+	margin: 10px;
+}
+input{
+	border: 1px solid #000;
+	margin: 10px;
+	padding: 2px;
+	font-family: Arial;
+	font-size: 18px;
+	color: #666666;
+}
+
+.bt{
+	border: none;
+	margin-top: 10px;
+}
